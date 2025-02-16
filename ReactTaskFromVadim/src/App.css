@@ -1,0 +1,20 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+.tbody {
+	display: inline-block;
+}
+
+.heads {
+	background-color: deeppink;
+}
+.deleteButton {
+	background-color: rgb(254, 138, 138);
+}
+
+.deleteButton:hover {
+	background-color: brown;
+}
